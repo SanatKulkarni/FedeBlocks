@@ -62,19 +62,6 @@ yarn install
 yarn dev
 ```
 
-## Testing
-
-```bash
-# Run frontend tests
-yarn test
-
-# Run contract tests
-yarn test:contracts
-
-# Run circuit tests
-yarn test:circuits
-```
-
 ## Acknowledgments
 
 - Research paper that inspired this project
